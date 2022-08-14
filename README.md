@@ -1,2 +1,3 @@
 # Django exs
- Aprendendo a utilizar Django
+ Aprendendo a utilizar Django 🐍
+  
